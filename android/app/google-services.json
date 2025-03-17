@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1007501551030",
+    "firebase_url": "https://prep-6cd65-default-rtdb.firebaseio.com",
+    "project_id": "prep-6cd65",
+    "storage_bucket": "prep-6cd65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007501551030:android:e16bbdbc44306b1d7d8d17",
+        "android_client_info": {
+          "package_name": "com.prepguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007501551030-4phkehup5rd863n0nje1up542dbuq6b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prepguru",
+            "certificate_hash": "94cc7bf328bd90b4d6bae6c4f2b7a19e38e0bbea"
+          }
+        },
+        {
+          "client_id": "1007501551030-dv88bvmi3555terl7vjqj0tgb6t5i5vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prepguru",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1007501551030-r6q7p3npe8vbgfp546kqlhkndcu17e1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtwnvt80sM4JLPWUKtVtl-dT22jB1sAWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007501551030-r6q7p3npe8vbgfp546kqlhkndcu17e1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007501551030:android:b55320698a15614a7d8d17",
+        "android_client_info": {
+          "package_name": "com.prepguru1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007501551030-1cnr2fdq4ubkhkatim5npknd035kvsae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prepguru1",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1007501551030-r6q7p3npe8vbgfp546kqlhkndcu17e1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtwnvt80sM4JLPWUKtVtl-dT22jB1sAWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007501551030-r6q7p3npe8vbgfp546kqlhkndcu17e1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
